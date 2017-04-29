@@ -1,3 +1,4 @@
+LOGO ICON "D:/w/icons/logo64x64.ico"
 // Our main menu.
 IDR_MAINMENU MENU
 BEGIN

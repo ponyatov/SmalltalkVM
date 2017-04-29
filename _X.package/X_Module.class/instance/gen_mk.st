@@ -6,13 +6,15 @@ gen_mk
 		nextPutAll: tab , './exe$(EXE) > $@ ' , cr;
 		"&& tail $(TAIL) $@' , cr;"
 			nextPutAll: 'C = cpp.cpp' , cr;
-		nextPutAll: 'H = hpp.hpp' , cr.
+		nextPutAll: 'H = hpp.hpp' , cr;
+		nextPutAll: 'CXXFLAGS += -DAPP=\"' , val , '\"' , cr.
 	win32
 		ifTrue: [ mk
 				nextPutAll: 'C += winmain.cpp' , cr;
-				nextPutAll: 'L += res.res ' , cr ;
+				nextPutAll: 'L += res.res ' , cr;
+				nextPutAll: 'CXXFLAGS += -mwindows -DGUI ' , cr;
 				nextPutAll: 'res.res: rc.rc' , cr , tab , 'windres -O coff -o $@ $<' , cr ].
 	mk
 		nextPutAll: './exe$(EXE): $(C) $(H) $(L)' , cr;
-		nextPutAll: tab , '$(CXX) -o $@ $(C) $(L)';
+		nextPutAll: tab , '$(CXX) $(CXXFLAGS) -o $@ $(C) $(L)';
 		close
