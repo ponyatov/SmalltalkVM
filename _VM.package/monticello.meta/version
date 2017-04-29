@@ -1,2 +1,2 @@
-(name '_VM-DmitryPonyatov.7' message '+ filetree://repo' id '06af6823-b265-2b41-8b6c-4b5215b6c95c' date '29 April 2017' time '5:11:53.613284 pm' author 'DmitryPonyatov' ancestors ((name '_VM-DmitryPonyatov.6' message 'move to filetree://
-' id '21887d3f-d2c4-5acd-ac4e-5e19ac3b8a41' date '29 April 2017' time '5:10:37 pm' author 'DmitryPonyatov' ancestors () stepChildren ())) stepChildren ())
+(name '_VM-DmitryPonyatov.8' message '+ vm>op' id '9eb3e626-2691-b54c-8c2e-7a8c114c81be' date '29 April 2017' time '5:19:42.354284 pm' author 'DmitryPonyatov' ancestors ((name '_VM-DmitryPonyatov.7' message '+ filetree://repo' id '06af6823-b265-2b41-8b6c-4b5215b6c95c' date '29 April 2017' time '5:11:53.613284 pm' author 'DmitryPonyatov' ancestors ((name '_VM-DmitryPonyatov.6' message 'move to filetree://
+' id '21887d3f-d2c4-5acd-ac4e-5e19ac3b8a41' date '29 April 2017' time '5:10:37 pm' author 'DmitryPonyatov' ancestors () stepChildren ())) stepChildren ())) stepChildren ())
