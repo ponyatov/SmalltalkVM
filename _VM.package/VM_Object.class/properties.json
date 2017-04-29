@@ -1,0 +1,14 @@
+{
+	"category" : "_VM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DmitryPonyatov 4/29/2017 11:26",
+	"instvars" : [
+		 ],
+	"name" : "VM_Object",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
