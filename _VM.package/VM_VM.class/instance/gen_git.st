@@ -1,4 +1,4 @@
-initialization
+code generation
 gen_git
 	" .gitignore "
 	self git: self dir / '.gitignore'.
