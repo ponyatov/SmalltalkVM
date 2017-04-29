@@ -1,0 +1,15 @@
+{
+	"category" : "_X",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DmitryPonyatov 4/29/2017 18:57",
+	"instvars" : [
+		"val",
+		"tag" ],
+	"name" : "X_A",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
