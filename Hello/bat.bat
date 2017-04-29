@@ -1,1 +1,1 @@
-@gvim -c "set encoding=utf8" -p log.log hpp.hpp cpp.cpp Makefile
+@gvim -c "set encoding=utf8" -p log.log hpp.hpp cpp.cpp Makefile  winmain.cpp rc.rc

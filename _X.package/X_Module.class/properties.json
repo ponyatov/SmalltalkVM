@@ -13,7 +13,8 @@
 		"hpp",
 		"cpp",
 		"bat",
-		"git" ],
+		"git",
+		"win32" ],
 	"name" : "X_Module",
 	"pools" : [
 		 ],
