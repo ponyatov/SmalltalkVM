@@ -4,12 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "DmitryPonyatov 4/29/2017 11:26",
+	"commentStamp" : "DmitryPonyatov 4/29/2017 11:56",
 	"instvars" : [
-		"val",
-		"tag" ],
-	"name" : "VM_Object",
+		 ],
+	"name" : "VM_File",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "VM_Object",
 	"type" : "normal" }
