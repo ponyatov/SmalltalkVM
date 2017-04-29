@@ -1,0 +1,14 @@
+{
+	"category" : "_X",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "X_File_test",
+	"pools" : [
+		 ],
+	"super" : "X_Object_test",
+	"type" : "normal" }

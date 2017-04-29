@@ -1,0 +1,14 @@
+{
+	"category" : "_X",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DmitryPonyatov 4/29/2017 19:47",
+	"instvars" : [
+		 ],
+	"name" : "X_VM_test",
+	"pools" : [
+		 ],
+	"super" : "X_Module_test",
+	"type" : "normal" }
