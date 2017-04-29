@@ -6,7 +6,12 @@
 		 ],
 	"commentStamp" : "DmitryPonyatov 4/29/2017 11:27",
 	"instvars" : [
-		"dir" ],
+		"dir",
+		"hpp",
+		"cpp",
+		"mk",
+		"bat",
+		"git" ],
 	"name" : "VM_VM",
 	"pools" : [
 		 ],
