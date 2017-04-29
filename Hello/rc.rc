@@ -1,0 +1,4 @@
+// Our main menu.
+IDR_MAINMENU MENU
+BEGIN
+END
