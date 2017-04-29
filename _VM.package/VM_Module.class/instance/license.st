@@ -1,0 +1,3 @@
+metainfo
+license
+	^ 'GNU LesserGPL'

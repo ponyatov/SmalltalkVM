@@ -1,0 +1,25 @@
+{
+	"category" : "_VM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DmitryPonyatov 4/29/2017 17:22",
+	"instvars" : [
+		"dir",
+		"hpp",
+		"cpp",
+		"mk",
+		"bat",
+		"gitignore",
+		"readme",
+		"title",
+		"about",
+		"author",
+		"license",
+		"github" ],
+	"name" : "VM_Module",
+	"pools" : [
+		 ],
+	"super" : "VM_Object",
+	"type" : "normal" }

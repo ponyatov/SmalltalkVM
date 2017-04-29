@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "DmitryPonyatov 4/29/2017 11:56",
+	"commentStamp" : "DmitryPonyatov 4/29/2017 18:46",
 	"instvars" : [
 		 ],
-	"name" : "VM_Object_test",
+	"name" : "VM_File_test",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "VM_Object_test",
 	"type" : "normal" }

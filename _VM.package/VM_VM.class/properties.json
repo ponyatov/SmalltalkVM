@@ -6,14 +6,9 @@
 		 ],
 	"commentStamp" : "DmitryPonyatov 4/29/2017 11:27",
 	"instvars" : [
-		"dir",
-		"hpp",
-		"cpp",
-		"mk",
-		"bat",
-		"git" ],
+		 ],
 	"name" : "VM_VM",
 	"pools" : [
 		 ],
-	"super" : "VM_Object",
+	"super" : "VM_Module",
 	"type" : "normal" }
