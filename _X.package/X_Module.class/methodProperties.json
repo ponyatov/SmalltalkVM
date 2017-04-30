@@ -4,10 +4,13 @@
 	"instance" : {
 		"build" : "DmitryPonyatov 4/29/2017 22:36",
 		"dir:" : "DmitryPonyatov 4/29/2017 20:28",
-		"gen_bat" : "DmitryPonyatov 4/29/2017 23:35",
+		"gen_bat" : "DmitryPonyatov 4/30/2017 21:05",
 		"gen_cpp" : "DmitryPonyatov 4/30/2017 00:23",
-		"gen_files" : "DmitryPonyatov 4/29/2017 22:07",
+		"gen_files" : "DmitryPonyatov 4/30/2017 21:05",
 		"gen_git" : "DmitryPonyatov 4/29/2017 23:48",
 		"gen_hpp" : "DmitryPonyatov 4/29/2017 22:40",
 		"gen_log" : "DmitryPonyatov 4/29/2017 22:07",
-		"gen_mk" : "DmitryPonyatov 4/30/2017 00:24" } }
+		"gen_mk" : "DmitryPonyatov 4/30/2017 00:24",
+		"gen_rc" : "DmitryPonyatov 4/30/2017 21:07",
+		"gen_reshpp" : "DmitryPonyatov 4/30/2017 21:07",
+		"gen_winmain" : "DmitryPonyatov 4/30/2017 21:01" } }

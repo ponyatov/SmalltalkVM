@@ -6,4 +6,5 @@ gen_files
 		gen_cpp;
 		gen_mk;
 		gen_bat;
-		gen_git
+		gen_git.
+	win32 ifTrue: [ self gen_winmain ; gen_rc ; gen_reshpp ]

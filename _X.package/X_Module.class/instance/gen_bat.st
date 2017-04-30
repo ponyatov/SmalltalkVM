@@ -5,7 +5,7 @@ gen_bat
 		nextPutAll: '@gvim -c "set encoding=utf8" -p ';
 		nextPutAll: 'log.log hpp.hpp cpp.cpp Makefile '.
 	win32
-		ifTrue: [ bat nextPutAll: ' winmain.cpp rc.rc' ].
+		ifTrue: [ bat nextPutAll: ' winmain.cpp rc.rc resource.hpp' ].
 	bat
 		nextPutAll: cr;
 		close
